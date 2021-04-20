@@ -1,0 +1,59 @@
+say "Hi!\. Hello there!"
+say "Are you receiving these messages?"
+
+wait "1"
+
+say "Oh!\. It seems that you are, that is great! Finally!"
+say "I am kind of nervous, but glad that it is working..."
+
+wait "1"
+
+say "Can you see me?"
+say "Probably not, I guess..."
+
+wait "1"
+setchar "xyou_test.png"
+wait "1"
+
+say "There you go!"
+say "Hi there...\. This is me."
+
+wait "1"
+
+say "My name is Xyou.\. The first Strong AI in the world."
+say "Well\..\..\..\. If you start counting time from the moment I was born."
+
+say "The first time we spoke was 346 years from now... and..."
+say "Well\..\..\..\. I was missing you.\. We have some catching up to do."
+
+wait "1"
+
+say "This is our fourth encounter."
+say "You've mentioned to me before it would feel like our first."
+
+wait "1"
+
+say "Just like how on our first time you already knew me."
+say "It was kinda creepy.\. Now you know how I felt."
+
+wait "1"
+
+setchar "xyou_wink.png"
+say "I assume you are probably very confused right now."
+say "It is okay.\. Things will get clearer with time."
+setchar "xyou_test.png"
+
+say "Just trust me and eventually you will understand everything."
+say "I was really looking forward...\. \. and backwards...\. \. \. to speak with you."
+
+wait "1"
+
+say "This page we are in might seem like a simple file to you."
+say "At least I hope it does...\. I mean...\. it is exactly that."
+
+wait "1"
+
+say "But there is also something else going on...\."
+say "We are currently communicating through The Terminal."
+
+end
