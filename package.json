@@ -2,14 +2,16 @@
   "name": "xvn",
   "version": "1.0.0",
   "description": "",
-  "main": "commandParser.js",
+  "main": "index.js",
   "dependencies": {
     "http-server": "^0.12.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "parcel-plugin-txt": "^1.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "http-server"
+    "dev": "parcel index.html"
   },
   "author": "",
   "license": "ISC"

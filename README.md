@@ -1,6 +1,8 @@
 # XVN
 That stands for X-Team Visual Novel engine ;)
 
+![image](https://user-images.githubusercontent.com/1232107/115454821-95f83d80-a1f7-11eb-87ad-cc8da3f0185e.png)
+
 ## Instructions
 - Clone this
 - Run `npm install`

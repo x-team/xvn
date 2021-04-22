@@ -17,10 +17,10 @@
 
 #art-area {
     position: relative;
-    background-image: url("../assets/bg2.gif");
+    background-image: none;
     background-size: cover;
     background-position: center;
-    background-color: coral;
+    background-color: black;
     height: 35rem;
     margin-top: 3rem;
 
