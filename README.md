@@ -16,7 +16,3 @@ That stands for X-Team Visual Novel engine ;)
 **Even after changing the script file and saving it, the browser still has an older, cached version of the script.**
 
 Try doing a hard refresh on your browser, that should solve it. (CTRL + F5, or Cmd + Shift + F5).
-
-
-## Repository TODO
-* Document the XVN language
