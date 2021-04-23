@@ -5,6 +5,7 @@ That stands for X-Team Visual Novel engine ;)
 
 ## Instructions
 - Clone this
+- Install parcel `npm install -g parcel-bundler`
 - Run `npm install`
 - Run `npm run dev` and go to the URL on the terminal.
 - If you're only interested in editing the script that is being played, the file inside the `scripts` folder is all you need to change.
