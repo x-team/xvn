@@ -57,3 +57,27 @@
     color: white;
     font-size: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+    #text-area {
+        margin-top: 5rem;
+        margin: 1rem auto;
+        width: 90%;
+        text-align: left;
+        color: white;
+        font-size: 30px;
+    }
+
+    #art-area {
+        position: relative;
+        background-image: none;
+        background-size: cover;
+        background-position: center;
+        background-color: black;
+        height: 35rem;
+        margin-top: 0rem;
+
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+}

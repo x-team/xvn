@@ -19,8 +19,13 @@ export function clickOnScreen() {
     if (window.isMessageAnimating || window.isWaiting) {
         return;
     }
+    clearCharAnimation();
     clearText();
     playNextCommand();
+}
+
+function clearCharAnimation() {
+    clearInterval(window.setCharAnimatedInterval);
 }
 
 function clearText() {

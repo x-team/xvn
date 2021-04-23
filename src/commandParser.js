@@ -3,6 +3,7 @@ import { end } from "./commands/end";
 import { setChar } from "./commands/setChar";
 import { wait } from "./commands/wait";
 import { setBg } from "./commands/setbg";
+import { setCharAnimated } from "./commands/setcharanimated";
 
 const commandDictionary = {
     say: say,
@@ -10,6 +11,7 @@ const commandDictionary = {
     setchar: setChar,
     wait: wait,
     setbg: setBg,
+    setcharanimated: setCharAnimated,
 };
 
 export function matchCommand(command) {

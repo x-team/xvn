@@ -17,7 +17,7 @@ say "Probably not, I guess..."
 wait "1"
 setchar "xyou_test.png"
 wait "1"
-
+setcharanimated "xyou_talk.png" "0.12" "20"
 say "There you go!"
 say "Hi there...\\. This is me."
 
