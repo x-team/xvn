@@ -10,6 +10,8 @@ That stands for X-Team Visual Novel engine ;)
 - Run `npm run dev` and go to the URL on the terminal.
 - If you're only interested in editing the script that is being played, the file inside the `scripts` folder is all you need to change.
 
+## Writing scripts
+Check out the [Commands Manual](https://github.com/x-team/xvn/wiki/Commands-Manual) in the wiki.
 
 ## FAQ
 
